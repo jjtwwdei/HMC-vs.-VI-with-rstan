@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517930542208.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2570045805",
+    "id" : "47E0A3B6",
+    "lastKnownWriteTime" : 1517940121,
+    "last_content_update" : 1517940121990,
+    "path" : "D:/study/github/mcmc vs. vi/comparison.R",
+    "project_path" : "comparison.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

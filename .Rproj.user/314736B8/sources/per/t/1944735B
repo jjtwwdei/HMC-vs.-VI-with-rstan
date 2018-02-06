@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517929028576.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "521590624",
+    "id" : "1944735B",
+    "lastKnownWriteTime" : 1517930526,
+    "last_content_update" : 1517930526276,
+    "path" : "D:/study/github/mcmc vs. vi/simulate data.R",
+    "project_path" : "simulate data.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

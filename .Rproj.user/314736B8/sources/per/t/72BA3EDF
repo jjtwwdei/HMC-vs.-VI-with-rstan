@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517930699685.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1331426575",
+    "id" : "72BA3EDF",
+    "lastKnownWriteTime" : 1517938555,
+    "last_content_update" : 1517938555485,
+    "path" : "D:/study/github/mcmc vs. vi/mixnormal.stan",
+    "project_path" : "mixnormal.stan",
+    "properties" : {
+        "cursorPosition" : "16,11",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "stan"
+}
